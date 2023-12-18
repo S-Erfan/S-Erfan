@@ -1,13 +1,17 @@
 <h1 align="center" >  Hi there <img src="./imgs/Hi.gif" width="30" style="vertical-align:middle"> </h1>
 
-I am a web Developer and software engineer <h2 display="inline" color="yellow" > Javascript(FullStack) </h1>
+I am a web Developer and software engineer <h2 style="display:inline" color="yellow" ><img alt="Javscript" style="width:70px"  src="https://img.shields.io/badge/javascript%20%20%20%20%20%20%20%20-%20%20javascript%20%20%20%20?style=font-size%20%3D%20%2250px%22&logo=Javascript&color=gray">
+(FullStack) </h1>
+
 
 <br>
-## Connect with me
-
+<h1 align="center" >Connect with me</h1>
 [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/s_er_fan)
 [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:s.erfan.reactjs@gmail.com)
 <br>
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/s-erfan">
+
 
 <!--
 **S-Erfan/S-Erfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
