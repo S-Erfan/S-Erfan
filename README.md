@@ -1,7 +1,7 @@
 <h1 align="center" >  Hi there <img src="./imgs/Hi.gif" width="30" style="vertical-align:middle"> </h1>
 
-I am a web Developer and software engineer <h2 style="display:inline" color="yellow" ><img alt="Javscript" style="width:70px"  src="https://img.shields.io/badge/javascript%20%20%20%20%20%20%20%20-%20%20javascript%20%20%20%20?style=font-size%20%3D%20%2250px%22&logo=Javascript&color=gray">
-(FullStack) </h1>
+I am a web Developer and software engineer <img alt="Javscript" style="width:70px"  src="https://img.shields.io/badge/javascript%20%20%20%20%20%20%20%20-%20%20javascript%20%20%20%20?style=font-size%20%3D%20%2250px%22&logo=Javascript&color=gray">
+(FullStack)
 
 
 <br>
