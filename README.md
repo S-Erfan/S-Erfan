@@ -5,12 +5,11 @@ I am a web Developer and software engineer <img alt="Javscript" style="width:70p
 
 
 <br>
-<h1 align="center" >Connect with me</h1>
-[<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/s_er_fan)
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:s.erfan.reactjs@gmail.com)
-<br>
+<!-- <h1 align="center" >Connect with me</h1> -->
+<!-- [<img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/s_er_fan) -->
+<!-- [<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:s.erfan.reactjs@gmail.com) -->
+<!-- <br> -->
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/s-erfan">
 
 
 <!--
