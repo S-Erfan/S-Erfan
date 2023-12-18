@@ -1,6 +1,6 @@
 <h1 align="center" >  Hi there <img src="./imgs/Hi.gif" width="30" style="vertical-align:middle"> </h1>
 
-I am a web Developer and software engineer ##Javascript(FullStack)
+I am a web Developer and software engineer <h2 display="inline" color="yellow" > Javascript(FullStack) </h1>
 
 <br>
 ## Connect with me
